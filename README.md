@@ -36,6 +36,8 @@ Python Lyrics/
 ```bash
 pip install python-vlc openai-whisper
 
+---
+
 2. Install VLC Player
 
 Download:
@@ -44,7 +46,9 @@ https://www.videolan.org/vlc/
 ▶️ Run Project
 python main.py
 
-🎯 How it works
+---
+
+###🎯 How it works
 Loads MP3 song
 Uses Whisper AI to generate lyrics
 Splits lyrics into small chunks
